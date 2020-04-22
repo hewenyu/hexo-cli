@@ -1,2 +1,2 @@
 # hexo-cli
-用于hexo的docker容器
+用于发布hexo的docker容器
